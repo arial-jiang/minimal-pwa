@@ -1,5 +1,5 @@
 
-Minimal PWA
+Trip PWA
 ----
 
 > Very simple code to demonstrate Progressive Web Apps.
